@@ -6,3 +6,5 @@ cd my-first-repo
 git add test1.txt
 git status
 git commit -m "create a test code"
+
+git push origin master
